@@ -2,7 +2,7 @@
 
 Este projeto consiste em um modelo de aprendizado profundo (deep learning) desenvolvido para prever se é mais provável que as ações BBAS3, CSNA3, PETR4 e VALE3 devam ser compradas ou vendidas com base em dados de imagens de gráficos de ações. O modelo utiliza uma arquitetura de rede neural convolucional (CNN) com uma camada Inception para extrair características importantes das imagens e uma camada densa para a classificação binária.
 
-![Exemplo de Gráfico de Ações](T:\TATO\Pycharm_projects\DeepLearning_BBAS3\images\2019-12-09_1.png)
+![Exemplo de Gráfico de Ações](https://github.com/CarlosPareschi/DeepLearning_B3/blob/main/images/2019-12-09_1.png)
 
 A partir de agora explico como foi aplicado as técnicas para BBSA3, mas a abordagem foi a mesma nas demais, como os notebooks mostram.
 
